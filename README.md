@@ -1,6 +1,6 @@
 # AtividadesCondicionais
 
-## 1) Escreva um script que pergunte ao usuáro sua idade e, com base nisso, exiba uma mensagem informando se é menor de idade, adulto e idoso
+## 1) Escreva um script que pergunte ao usuáro sua idade e, com base nisso, exiba uma mensagem infor90mando se é menor de idade, adulto e idoso
 
 ## 2) Peça ao usuário para inserir um número e verifique se ele é par ou ímpar
 
